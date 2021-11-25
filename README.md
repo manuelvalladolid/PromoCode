@@ -1,3 +1,5 @@
+# PromoCode
+Aplicación para generar códigos de promoción - Angular / .Net5
 
 ## Detalles:
 
