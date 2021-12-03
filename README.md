@@ -3,10 +3,10 @@ Aplicación para generar códigos de promoción - Angular / .Net5
 
 ## Detalles:
 
-*   Template Angular 11 y TypeScript
-*   RESTful API Backend usando .NET 5
+*   Angular 11
+*   RESTful API Backend .NET 5
 *   Base de datos usando Entity Framework Core
-*   Tema using Bootstrap 4
+*   Bootstrap 4
 
 
 ## Instalación
